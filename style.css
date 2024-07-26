@@ -1,0 +1,211 @@
+body {
+    margin-left: 7%;
+    margin-right: 7%;
+    background-color: black;
+}
+#first,#second,#third,#fourth,#fifth,#sixth,#seventh,#eighth {
+    border: 1px solid;
+    border-radius: 5px;
+    width: 500px;
+    text-align: center;
+    font-family: sans-serif;
+}
+#first { 
+    background-color: lightpink;
+    }
+#second {
+    background-color: lightblue;
+    }
+#one,#two,#three,#four {
+    margin-top: 4%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+#third {
+    background-color: lightgreen;
+    }
+#fourth {
+    background-color: lightyellow;
+}
+#fifth {
+    background-color: lightcoral;
+    }
+#sixth {
+    background-color: lightgray;
+}
+#seventh {
+    background-color: lightgoldenrodyellow;
+    }
+#eighth {
+    background-color: lightsalmon;
+}
+#a,#b,#c,#d,#e,#f,#g,#h,#i{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+#A,#B,#C,#D,#E,#F,#G,#H,#I,#J,#K,#L,#M,#N,#O,#P,#Q,#R,#S,#T,#U,#V,#W,#X,#Y,#Z,#One,#Two,#Three,#Four,#Five,#Six,#Seven,#Eight,#Nine,#Ten {
+    margin-top: 3%;
+    border: 1px solid;
+    width: 200px;
+    padding: 3%;
+    border-radius: 5px;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: large;
+}
+#A {
+    background-color: rgb(238, 209, 213);
+}
+#B {
+    background-color: rgb(205, 236, 205);
+}
+#C {
+    background-color: rgb(188, 224, 246);
+}
+#D {
+    background-color: rgb(186, 222, 220);
+}
+#E {
+    background-color: lightsteelblue;
+}
+#F {
+    background-color: rgb(235, 205, 205);
+}
+#G {
+    background-color: rgb(198, 234, 210);
+}
+#H {
+    background-color: rgb(216, 228, 194);
+}
+#I {
+    background-color: rgb(238, 222, 194);
+}
+#J {
+    background-color: rgb(133, 186, 168);
+}
+#K {
+    background-color: rgb(183, 219, 232);
+}
+#L {
+    background-color: rgb(216, 216, 216);
+    }
+#M {
+    background-color: rgb(224, 180, 180);
+}
+#N {
+    background-color: rgb(152, 176, 205);
+}
+#O {
+    background-color: rgb(224, 148, 210);
+}
+#P {
+    background-color: rgb(239, 149, 166);
+}
+#Q {
+    background-color: rgb(155, 194, 208);
+}
+#R {
+    background-color: rgb(209, 241, 110);
+}
+#S {
+    background-color: rgb(106, 215, 242);
+}
+#T {
+    background-color: rgb(173, 185, 95);
+}
+#U {
+    background-color: rgb(126, 232, 129);
+}
+#V {
+    background-color: rgb(131, 175, 192);
+}
+#W {
+    background-color: rgb(172, 125, 162);
+}
+#X {
+    background-color: rgb(119, 112, 179);
+}
+#Y {
+    background-color: rgb(129, 187, 141);
+}
+#Z {
+    background-color: rgb(196, 208, 118);
+}
+#One {
+    background-color: lightcyan;
+}
+#Two {
+    background-color: lightcoral;
+}
+#Three {
+    background-color: lightgreen;
+}
+#Four {
+    background-color: lightblue;
+}
+#Five {
+    background-color: lightyellow;
+}
+#Six {
+    background-color: lightpink;
+}
+#Seven {
+    background-color: lightgray;
+}
+#Eight {
+    background-color: limegreen;
+}
+#Nine {
+    background-color: lightgreen;
+}
+#Ten {
+    background-color: lightblue;
+}
+#last-one, #last-two, #first-one {
+    display: flex;
+    margin-top: 3%;
+    flex-direction: row;
+    justify-content: space-between;
+    font-family: sans-serif;
+}
+#Excel, #dsa, #ml, #ai,#html,#css {
+    border: 1px solid black;
+    border-radius: 5px;
+    width: 400px;
+    text-align: center;
+    padding:4%;
+}
+#html {
+    background-color: lightblue;
+}
+#css {
+    background-color: lightgreen;
+}
+#Excel {
+    background-color: lightcoral;
+}
+#dsa {
+    background-color: lightyellow;
+}
+#ml {
+    background-color: lightpink;
+}
+#ai {
+    background-color: lightblue;
+}
+#Excel,#dsa,#ml,#ai {
+    font-size: x-large;
+}
+a {
+    text-decoration: none;
+    color: white;
+}
+button {
+    background-color: black;
+    border-radius: 20px;
+    border: none;
+    padding: 2%;
+    margin-bottom: 2%;
+}
